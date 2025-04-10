@@ -30,8 +30,8 @@ This repository documents the CanSat project developed by **Team HPS1** at **Hig
 Visualizations from post-flight analysis:
 
 <p align="center">
-  <img src="images/graphs/altitude_vs_time.png" width="400">
-  <img src="images/graphs/temperature_vs_altitude.png" width="400">
+  <img src="Images/graphs/Pressure Vs Time.png" width="400">
+  <img src="Images/graphs/Temperature Vs Time.png" width="400">
 </p>
 
 ---
